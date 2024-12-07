@@ -9,7 +9,7 @@ Istall Python! Jika Belum
 Buat PC/Laptop ( Windows )
 
 ```
-git clone
+git clone https://github.com/AirdropFamilyIDN-V2-0/NodeWars.git
 ```
 ```
 cd NodeWars
@@ -34,7 +34,7 @@ pkg install python
 pkg install git
 ```
 ```
-git clone
+git clone https://github.com/AirdropFamilyIDN-V2-0/NodeWars.git
 ```
 ```
 cd NodeWars
